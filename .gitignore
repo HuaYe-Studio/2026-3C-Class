@@ -107,3 +107,17 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local assistant and editor settings
+.claude/
+.claude.meta
+.codex/
+.agents/
+.idea/
+.vscode/
+.mcp.json
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.env
+.env.*
